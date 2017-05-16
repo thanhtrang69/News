@@ -43,7 +43,7 @@ public class NewsViewPagerAdapter extends FragmentStatePagerAdapter {
                 titel = "Vnexpress";
                 break;
             case 1:
-                titel = "Sport";
+                titel = "Dân Trí";
                 break;
         }
         return titel;
